@@ -27,6 +27,9 @@ public void empEmail() {
 }
 public void empAddress() {
 	System.out.println("gajuwaka");
+}
+	public void empAddress1() {
+		System.out.println("gajuwaka");
 	
 	
 }
@@ -38,6 +41,7 @@ public static void main(String[] args ){
 	e.empAddress();
 	e.empDob();
 	e.empName();
+	e.empAddress1();
 	
 	
 			
